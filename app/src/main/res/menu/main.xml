@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="User">
+
+        <menu>
+
+
+            <item android:title="Myaccount"
+                android:id="@+id/myaccount"
+                android:icon="@drawable/ic_baseline_account_circle_24"/>
+
+            <item android:title="WishList"
+                android:id="@+id/wishlist"
+                android:icon="@drawable/ic_baseline_add_24"/>
+
+            <item android:title="Looking for Roommates"
+                android:id="@+id/lfr"
+                android:icon="@drawable/ic_baseline_people_24"/>
+
+            <item android:title="Settings"
+                android:id="@+id/setting"
+                android:icon="@drawable/ic_baseline_settings_24"/>
+
+            <item android:title="About"
+                android:id="@+id/about"
+                android:icon="@drawable/ic_baseline_info_24"/>
+
+        </menu>
+
+
+
+    </item>
+
+</menu>
